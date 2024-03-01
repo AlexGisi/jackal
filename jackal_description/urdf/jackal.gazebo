@@ -11,7 +11,7 @@
       <alwaysOn>true</alwaysOn>
       <updateRate>50.0</updateRate>
       <bodyName>base_link</bodyName>
-      <topicName>/$(arg ns)/ground_truth/state</topicName>
+      <topicName>/ground_truth/state</topicName>
       <gaussianNoise>0.01</gaussianNoise>
       <frameName>world</frameName>
       <xyzOffsets>0 0 0</xyzOffsets>
