@@ -3,7 +3,7 @@
   <!--
     As you add to this URDF, please be aware that both the robot and
     simulation include it. You must retain compatibility with all of
-    the following launch files:
+    the following launch files
 
     jackal_viz/launch/view_model.launch
     jackal_gazebo/launch/jackal_world.launch
@@ -111,7 +111,7 @@
 
   <!--
     Add a 3D lidar sensor.  By default this is a Velodyne VLP16 but can be changed with the
-    JACKAL_LASER_3D_MODEL environment variable. Valid model designations are:
+    JACKAL_LASER_3D_MODEL environment variable. Valid model designations are
     - vlp16 (default)  :: Velodyne VLP16
     - vlp32e           :: Velodyne HDL-32E
   -->
